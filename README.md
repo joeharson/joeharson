@@ -16,22 +16,20 @@
 
 > *"Passionate about building intelligent systems that solve real-world problems."*
 
-**Santhiya Joe Harson J** — AI & Data Science engineer specializing in end-to-end intelligent systems. From **Computer Vision pipelines** to **Generative AI apps**, I combine research depth with real-world engineering impact. Currently serving as **Associate** in the KCT AI & DS Dept. Association and a member of **iQube Innovation Center**.
+**Santhiya Joe Harson J** — AI & Data Science engineer specializing in end-to-end intelligent systems.<br/>
+From **Computer Vision pipelines** to **Generative AI apps**, I combine research depth with real-world engineering impact.<br/>
+Currently serving as **Associate** in the KCT AI & DS Dept. Association and a member of **iQube Innovation Center**.
 
-<div align="center">
+<br/>
 
-&nbsp; 🎓 &nbsp;**B.Tech AI & DS** · KCT · 2027 &nbsp;&nbsp;|&nbsp;&nbsp; 📍 &nbsp;**Coimbatore, India** 🇮🇳 &nbsp;&nbsp;|&nbsp;&nbsp; 🔭 &nbsp;**ML · DL · CV · NLP · GenAI · Agentic AI** &nbsp;&nbsp;|&nbsp;&nbsp; 💼 &nbsp;**Open to Internships**
-
-</div>
+🎓 &nbsp;**B.Tech AI & DS** · KCT · 2027 &nbsp;&nbsp;|&nbsp;&nbsp; 📍 &nbsp;**Coimbatore, India** 🇮🇳 &nbsp;&nbsp;|&nbsp;&nbsp; 🔭 &nbsp;**ML · DL · CV · NLP · GenAI · Agentic AI** &nbsp;&nbsp;|&nbsp;&nbsp; 💼 &nbsp;**Open to Internships**
 
 ---
 
 ## 🚀 Current Focus Areas
 
-<div align="center">
-
 | Domain | What I'm Exploring |
-|:---:|:---|
+|---|---|
 | 🤖 **Generative AI** | LLMs, prompt engineering & RAG pipelines |
 | 🕵️ **Agentic AI** | Autonomous agents, tool-use & multi-agent frameworks |
 | 👁️ **Computer Vision** | Object detection, image classification & sensing systems |
@@ -39,13 +37,9 @@
 | 💬 **NLP & Chatbots** | Conversational AI, intent detection & contextual reasoning |
 | 📊 **Data Analytics** | End-to-end pipelines & interactive Power BI dashboards |
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 **Languages & Frameworks**
 
@@ -81,13 +75,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-</div>
-
 ---
 
 ## 💼 Experience & Roles
-
-<div align="center">
 
 <table>
   <tr>
@@ -133,15 +123,13 @@
   </tr>
 </table>
 
-</div>
-
 ---
 
 ## 📜 Certifications &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 GitHub Stats
 
 <table width="100%">
   <tr>
-    <td valign="top" width="54%">
+    <td valign="top" width="54%" align="left">
 
 | &nbsp; | Domain | Certification |
 |:---:|:---|:---|
@@ -164,8 +152,6 @@
 ---
 
 ## 🤝 Let's Collaborate
-
-<div align="center">
 
 I'm actively seeking opportunities to learn, contribute, and connect within the global AI community.
 
@@ -193,6 +179,8 @@ I'm actively seeking opportunities to learn, contribute, and connect within the 
 </table>
 
 <br/>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhiya-joe-harson-j-41602a291)
 
