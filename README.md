@@ -22,7 +22,7 @@ Currently serving as **Associate** in the KCT AI & DS Dept. Association and a me
 
 <br/>
 
-🎓 &nbsp;**B.Tech AI & DS** · KCT · 2027 &nbsp;&nbsp;|&nbsp;&nbsp; 📍&nbsp;**Coimbatore, India** 🇮🇳 &nbsp;&nbsp;|&nbsp;&nbsp; 🔭 &nbsp;**ML · DL · CV · NLP · GenAI · Agentic AI** &nbsp;&nbsp;|&nbsp;&nbsp; 💼 &nbsp;**Open to Internships and Job**
+🎓 &nbsp;**B.Tech AI & DS** · KCT · 2027 &nbsp;&nbsp;|&nbsp;&nbsp; 📍&nbsp;**Coimbatore, India** 🇮🇳 &nbsp;&nbsp;|&nbsp;&nbsp; 🔭 &nbsp;**ML · DL · CV · NLP · GenAI · Agentic AI** &nbsp;&nbsp;|&nbsp;&nbsp; 💼 &nbsp;**Open to Job and Internships**
 
 ---
 
