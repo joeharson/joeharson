@@ -16,7 +16,7 @@
 
 > *"Passionate about building intelligent systems that solve real-world problems."*
 
-**Santhiya Joe Harson J** — AI & Data Science engineer specializing in end-to-end intelligent systems.<br/>
+**Santhiya Joe Harson J** - AI & Data Science engineer specializing in end-to-end intelligent systems.<br/>
 From **Computer Vision pipelines** to **Generative AI apps**, I combine research depth with real-world engineering impact.<br/>
 Currently serving as **Associate** in the KCT AI & DS Dept. Association and a member of **iQube Innovation Center**.
 
